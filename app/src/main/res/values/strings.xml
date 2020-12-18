@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Clustering Algorithm Example</string>
+    <string name="clear">Clear</string>
+    <string name="cluster">Cluster</string>
+    <string name="clusterNumbers">max clusters</string>
+</resources>
